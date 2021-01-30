@@ -1,0 +1,14 @@
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\bin\Debug\netstandard2.0\Blog.Common.dll
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\bin\Debug\netstandard2.0\Blog.Entity.dll
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\bin\Debug\netstandard2.0\Blog.Common.pdb
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\obj\Debug\netstandard2.0\Blog.Data.csprojAssemblyReference.cache
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\obj\Debug\netstandard2.0\Blog.Data.AssemblyInfoInputs.cache
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\obj\Debug\netstandard2.0\Blog.Data.AssemblyInfo.cs
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\bin\Debug\netstandard2.0\Blog.Data.deps.json
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\bin\Debug\netstandard2.0\Blog.Data.dll
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\bin\Debug\netstandard2.0\Blog.Data.pdb
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\bin\Debug\netstandard2.0\Blog.Entity.pdb
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\obj\Debug\netstandard2.0\Blog.Data.csproj.CoreCompileInputs.cache
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\obj\Debug\netstandard2.0\Blog.Data.csproj.CopyComplete
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\obj\Debug\netstandard2.0\Blog.Data.dll
+C:\Users\islet\Desktop\kapil\Blog\Blog.Data\obj\Debug\netstandard2.0\Blog.Data.pdb

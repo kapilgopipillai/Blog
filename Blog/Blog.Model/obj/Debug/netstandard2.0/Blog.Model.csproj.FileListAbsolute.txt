@@ -1,0 +1,9 @@
+C:\Users\islet\Desktop\kapil\Blog\Blog.Model\bin\Debug\netstandard2.0\Blog.Model.deps.json
+C:\Users\islet\Desktop\kapil\Blog\Blog.Model\bin\Debug\netstandard2.0\Blog.Model.dll
+C:\Users\islet\Desktop\kapil\Blog\Blog.Model\bin\Debug\netstandard2.0\Blog.Model.pdb
+C:\Users\islet\Desktop\kapil\Blog\Blog.Model\obj\Debug\netstandard2.0\Blog.Model.csprojAssemblyReference.cache
+C:\Users\islet\Desktop\kapil\Blog\Blog.Model\obj\Debug\netstandard2.0\Blog.Model.AssemblyInfoInputs.cache
+C:\Users\islet\Desktop\kapil\Blog\Blog.Model\obj\Debug\netstandard2.0\Blog.Model.AssemblyInfo.cs
+C:\Users\islet\Desktop\kapil\Blog\Blog.Model\obj\Debug\netstandard2.0\Blog.Model.dll
+C:\Users\islet\Desktop\kapil\Blog\Blog.Model\obj\Debug\netstandard2.0\Blog.Model.pdb
+C:\Users\islet\Desktop\kapil\Blog\Blog.Model\obj\Debug\netstandard2.0\Blog.Model.csproj.CoreCompileInputs.cache

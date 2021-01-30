@@ -1,0 +1,9 @@
+C:\Users\islet\Desktop\kapil\Blog\Blog.Entity\bin\Debug\netstandard2.0\Blog.Entity.deps.json
+C:\Users\islet\Desktop\kapil\Blog\Blog.Entity\bin\Debug\netstandard2.0\Blog.Entity.dll
+C:\Users\islet\Desktop\kapil\Blog\Blog.Entity\bin\Debug\netstandard2.0\Blog.Entity.pdb
+C:\Users\islet\Desktop\kapil\Blog\Blog.Entity\obj\Debug\netstandard2.0\Blog.Entity.csprojAssemblyReference.cache
+C:\Users\islet\Desktop\kapil\Blog\Blog.Entity\obj\Debug\netstandard2.0\Blog.Entity.AssemblyInfoInputs.cache
+C:\Users\islet\Desktop\kapil\Blog\Blog.Entity\obj\Debug\netstandard2.0\Blog.Entity.AssemblyInfo.cs
+C:\Users\islet\Desktop\kapil\Blog\Blog.Entity\obj\Debug\netstandard2.0\Blog.Entity.csproj.CoreCompileInputs.cache
+C:\Users\islet\Desktop\kapil\Blog\Blog.Entity\obj\Debug\netstandard2.0\Blog.Entity.dll
+C:\Users\islet\Desktop\kapil\Blog\Blog.Entity\obj\Debug\netstandard2.0\Blog.Entity.pdb
